@@ -29,6 +29,7 @@ def closeBrowser(context):
 #     assert status is True
 # Tests being passed
 # Tests are failed:
+#automate all applications.
 
 
 
