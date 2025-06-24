@@ -28,6 +28,7 @@ def closeBrowser(context):
 #     status=context.find_element(By.XPATH,"//div[@class='orangehrm-login-branding']").is_displayed()
 #     assert status is True
 # Tests being passed
+# Tests are failed:
 
 
 
