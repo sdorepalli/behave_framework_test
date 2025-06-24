@@ -1,0 +1,6 @@
+
+Execute test cases & generate report files:
+behave -f allure_behave.formatter:AlluerFormatter -o reports/ features/orangehrmlogin.feature
+
+Generate Allure Report
+allure serve reports/
